@@ -98,7 +98,7 @@
         const currentIntensity = util.getValue('dark_intensity') || 100;
         util.addStyle('swal-pub-style', 'style', GM_getResourceText('swalStyle'));
         Swal.fire({
-            title: '夜间模式配置',
+            title: '护眼模式配置',
             html: `
                 <div style="text-align: left; font-size: 14px">
                     <label>绿色强度：<span id="dark-intensity-label">${currentIntensity}</span>%</label>
