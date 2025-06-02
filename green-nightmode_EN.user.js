@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name              Eye Comfort Mode Assistant (Adjustable Intensity + Toggle Button + Color Support)
-// @version           2.5.0
+// @version           1.0.1
+// @namespace         https://github.com/lantinglu/green-nightmode
+// @supportURL        https://github.com/lantinglu/green-nightmode
 // @description       Enable night mode on any website, with adjustable darkness intensity, bottom-right toggle button, whitelist control, and customizable color theme (default: green).
 // @license           MIT
 // @match             *://*/*
@@ -126,7 +128,7 @@
 
     const init = () => {
         if (GM_getValue('dark_intensity') === undefined) {
-            GM_setValue('dark_intensity', 100);
+            GM_setValue('dark_intensity', 15);
         }
         if (GM_getValue('dark_mode') === undefined) {
             GM_setValue('dark_mode', 'dark');

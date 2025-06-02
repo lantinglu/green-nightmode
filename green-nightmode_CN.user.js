@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name              护眼模式助手（可调节强度 + 开关按钮 + 色彩支持）
-// @version           2.5.0
-// @description       实现任意网站的夜间模式，支持调节黑暗强度、右下角开关按钮、白名单控制、色彩自定义（默认绿色）
+// @namespace         https://github.com/lantinglu/green-nightmode
+// @version           1.0.1
+// @description       实现任意网站的护眼，支持调节绿色强度、右下角开关按钮
+// @supportURL        https://github.com/lantinglu/green-nightmode
 // @license           MIT
 // @match             *://*/*
 // @require           https://unpkg.com/darkrule@1.0.4/dist/rule.min.js
@@ -126,7 +128,7 @@
 
     const init = () => {
         if (GM_getValue('dark_intensity') === undefined) {
-            GM_setValue('dark_intensity', 100);
+            GM_setValue('dark_intensity', 15);
         }
         if (GM_getValue('dark_mode') === undefined) {
             GM_setValue('dark_mode', 'dark');
