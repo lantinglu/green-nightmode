@@ -1,4 +1,4 @@
-<p align="right">
+<p align="right"> 
   🌐 Language: <a href="#english-version">English</a> | <a href="#中文版本">中文</a>
 </p>
 
@@ -21,6 +21,11 @@
   <li>💾 Auto-saves your preferences and restores them on reload</li>
   <li>🌐 Works on almost all websites</li>
 </ul>
+
+<h2>🎨 Demo Preview</h2>
+<p>
+  <img src="https://github.com/user-attachments/assets/3ac5d73a-629e-444e-b863-f77d858450fb" alt="demo gif" width="100%">
+</p>
 
 <h2>💽 Installation</h2>
 <ul>
@@ -60,6 +65,11 @@
   <li>🌐 适用于几乎所有网站</li>
 </ul>
 
+<h2>🎨 效果演示</h2>
+<p>
+  <img src="https://github.com/user-attachments/assets/3ac5d73a-629e-444e-b863-f77d858450fb" alt="效果演示" width="100%">
+</p>
+
 <h2>💽 安装地址</h2>
 <ul>
   <li><a href="https://greasyfork.org/zh-CN/scripts/538046" target="_blank">👉 点击这里立即安装</a></li>
@@ -75,3 +85,4 @@
 <ul>
   <li>📧 邮件：<a href="mailto:tinalu0476@gmail.com">email</a></li>
 </ul>
+s
