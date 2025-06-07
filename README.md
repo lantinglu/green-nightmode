@@ -35,7 +35,7 @@
 
 <h2>🐞 Feedback</h2>
 <ul>
-  <li>📧 Email: <a href="mailto:tinalu0476@gmail.com">tinalu0476@gmail.com</a></li>
+  <li>📧 Email: <a href="mailto:tinalu0476@gmail.com">email</a></li>
 </ul>
 
 <hr>
@@ -73,5 +73,5 @@
 
 <h2>🐞 问题反馈</h2>
 <ul>
-  <li>📧 邮件：<a href="mailto:tinalu0476@gmail.com">tinalu0476@gmail.com</a></li>
+  <li>📧 邮件：<a href="mailto:tinalu0476@gmail.com">email</a></li>
 </ul>
